@@ -30,7 +30,7 @@ npx hardhat compile
 
 - Need to add OKX key for deployment variable if any is required in the hardhat config js file 
 
-# After compilation need to setup variable key for etherscan verification which will okx api key for amoy polygon as only require for verification
+### After compilation need to setup variable key for etherscan verification which will okx api key for amoy polygon as only require for verification
 
 ```shell
   npx hardhat vars set OKLINK_AMOY_API
